@@ -1,4 +1,4 @@
-# logisticregression
+# Logistic Regression
 
 Logistic Regression and k-Nearest Neighbours
 
